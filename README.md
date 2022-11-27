@@ -13,5 +13,3 @@ You can click the Preview link to take a look at your changes. -->
 [![Ankit's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itsankitpatel&hi&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)
-
- 
