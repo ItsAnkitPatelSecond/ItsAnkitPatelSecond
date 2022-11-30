@@ -8,7 +8,8 @@
 ItsAnkitPatel/ItsAnkitPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://git.io/streak-stats)
+<br>
 
 
 <!-- [![Ankit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itsankitpatel&&hi&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/itsankitpatel/github-readme-stats#gh-dark-mode-only)
