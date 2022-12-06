@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Ankit Patel
+- 👋 Hi there friend, I’m Ankit Patel
 - 👀 I’m currently working on some cool project
 - 🌱 I’m currently learning JavaSwing
 - 💞️ I’m looking to collaborate on open source
