@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes. -->
 <!--
 [![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsankitpatel)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel)
-
+## 💭10 minutes a day keep procastination away 💯
 [![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)
