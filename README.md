@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes. -->
 
 [![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)](https://github.com/ItsAnkitPatel)
