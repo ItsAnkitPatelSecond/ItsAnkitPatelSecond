@@ -1,9 +1,9 @@
-💭 👋 Hi there friend, I’m Ankit Patel<br>
-💭 👀 I’m currently working on some cool project<br>
-💭 🌱 I’m currently learning JavaSwing<br>
-💭 💞️ I’m looking to collaborate on open source<br>
-💭 📫 How to reach : [click me](http://www.linkedin.com/in/itsakpatel)<br>
-💭10 minutes a day keep procastination away 💯<br>
+- 👋 Hi there friend, I’m Ankit Patel<br>
+- 👀 I’m currently working on some cool project<br>
+- 🌱 I’m currently learning JavaSwing<br>
+- 💞️ I’m looking to collaborate on open source<br>
+- 📫 How to reach : [click me](http://www.linkedin.com/in/itsakpatel)<br>
+- 💭10 minutes a day keep procastination away 💯<br>
 <!---
 ItsAnkitPatel/ItsAnkitPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
