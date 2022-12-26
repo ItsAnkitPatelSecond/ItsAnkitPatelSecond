@@ -1,7 +1,7 @@
 
 <!-- ![Hi Friends](https://user-images.githubusercontent.com/83267083/209548771-e7ba3073-49cf-4215-9296-af2442765f01.png) -->
 
-<img src="https://user-images.githubusercontent.com/83267083/209548771-e7ba3073-49cf-4215-9296-af2442765f01.png" width="550" height="400">
+<img src="https://user-images.githubusercontent.com/83267083/209548771-e7ba3073-49cf-4215-9296-af2442765f01.png" width="450" height="350">
 
 
 
@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on open source<br>
 - 📫 How to reach : [click me](http://www.linkedin.com/in/itsakpatel)<br>
 - 💭10 minutes a day keep procastination away 💯<br>
+
 <!---
 ItsAnkitPatel/ItsAnkitPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
