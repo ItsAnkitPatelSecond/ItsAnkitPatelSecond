@@ -1,9 +1,4 @@
-
-<!-- ![Hi Friends](https://user-images.githubusercontent.com/83267083/209548771-e7ba3073-49cf-4215-9296-af2442765f01.png) -->
-
-<img src="https://user-images.githubusercontent.com/83267083/209548771-e7ba3073-49cf-4215-9296-af2442765f01.png" width="450" height="350">
-
-
+<img alt="Hi Friends" src="https://user-images.githubusercontent.com/83267083/209550973-05b84bcf-fbf7-447b-b1df-d8f1aaf6c35b.gif" width="350" height="250">
 
 - 👋 Hi there friend, I’m Ankit <br>
 - 👀 I’m currently working on some cool project<br>
