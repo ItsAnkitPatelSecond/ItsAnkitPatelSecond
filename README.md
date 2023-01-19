@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning C++<br>
 - 💞️ I’m looking to collaborate on open source<br>
 - 📫 How to reach : [click me](http://www.linkedin.com/in/itsakpatel)<br>
+- ⚡️ Fun fact **I like Anime**<br>
 - 💭10 minutes a day keep procastination away 💯<br>
 
 <!---
