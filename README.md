@@ -29,7 +29,7 @@ Remember, 10 minutes a day keeps procrastination at bay! 💯
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://github.com/ItsAnkitPatel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel) -->
 
 ### 🕒 My Coding Activity 
 
