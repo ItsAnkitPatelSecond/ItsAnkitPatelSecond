@@ -20,7 +20,7 @@ I'm passionate about contributing to open source projects, collaborating with ot
 You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at anyworkforak@gmail.com .
 
 ### ⚡ Fun fact: 
-I absolutely love anime! 
+I absolutely love anime! <img src="https://media.tenor.com/Fo2g7NgHs_EAAAAi/anime.gif" height="50">
 
 ### 💭 Procrastination Killer
 Remember, 10 minutes a day keeps procrastination at bay! 💯 
@@ -29,13 +29,28 @@ Remember, 10 minutes a day keeps procrastination at bay! 💯
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://github.com/ItsAnkitPatel)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel) 
+
+<!--
+### 💻 Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-444444?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-444444?style=flat-square&logo=redux" alt="Redux" />
+  <img src="https://img.shields.io/badge/Node.js-444444?style=flat-square&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-444444?style=flat-square&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-444444?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-444444?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code" />
+</p>
+-->
 
 ### 🕒 My Coding Activity 
 
 [![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
 
 ### 👀 Visitors
-Thanks for stopping by! Don't forget to give me a follow and say hi. 
+<!-- Thanks for stopping by! Don't forget to give me a follow and say hi. -->
+Thanks for visiting my profile! Let's connect and build something amazing together! 🙌
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)](https://github.com/ItsAnkitPatel)
