@@ -20,10 +20,11 @@ I'm passionate about contributing to open source projects, collaborating with ot
 You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at anyworkforak@gmail.com .
 
 ### ⚡ Fun fact: 
-I absolutely love anime! <img src="https://media.tenor.com/Fo2g7NgHs_EAAAAi/anime.gif" height="50">
+<img src="https://media.tenor.com/Fo2g7NgHs_EAAAAi/anime.gif" height="50"> I absolutely love anime! 
 
 ### 💭 Procrastination Killer
-Remember, 10 minutes a day keeps procrastination at bay! 💯 
+
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height = "50"> &nbsp; Remember, 10 minutes a day keeps procrastination at bay! 💯 
 
 ### 📊 My Github Stats 
 
