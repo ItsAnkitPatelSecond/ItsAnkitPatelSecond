@@ -48,6 +48,8 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 
 ### 🕒 My Coding Activity 
 
+[![Ankit's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ItsAkpatel&theme=Dark)](https://leetcode.com/ItsAkPatel/)
+
 [![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
 
 ### 👀 Visitors
