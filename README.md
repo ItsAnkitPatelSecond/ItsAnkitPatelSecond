@@ -48,7 +48,7 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 
 ### 🕒 My Coding Activity 
 
-<a href="https://leetcode.com/ItsAkPatel/"><img src="https://leetcard.jacoblin.cool/ItsAkPatel?theme=unicorn&extension=heatmap" alt="Ankit's leetcode-stats" width="450"></a>
+<a href="https://leetcode.com/ItsAkPatel/"><img src="https://leetcard.jacoblin.cool/ItsAkPatel?hide=ranking&theme=unicorn&extension=heatmap" alt="Ankit's leetcode-stats" width="450"></a>
 
 [![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
 
