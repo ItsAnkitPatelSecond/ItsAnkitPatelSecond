@@ -17,7 +17,7 @@ I'm passionate about contributing to open source projects, collaborating with ot
 
 ### 📫 How to reach me?
 
-You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at anyworkforak@gmail.com .
+You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at developerakpatel@gmail.com .
 
 ### ⚡ Fun fact: 
 <img src="/../AssestsBranch/anime.gif" height="50"> I absolutely love anime! 
