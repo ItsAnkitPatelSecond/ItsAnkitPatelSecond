@@ -42,7 +42,6 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
   <img src="https://img.shields.io/badge/Express.js-444444?style=flat-square&logo=express" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-444444?style=flat-square&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-444444?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code" />
 </p>
 -->
 
