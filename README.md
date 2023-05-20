@@ -8,7 +8,8 @@ Welcome to my Github profile! I'm a software engineer with a passion for program
 ### 🔭 What's new?
 
 <!-- - 💻 Working on building robust and scalable software systems -->
-- 🌱 Learning new programming languages and frameworks
+<!-- -🌱  Learning new programming languages and frameworks -->
+- 🌱 Learning Web Devlopment and updating my learnings on my [twitter handle](https://twitter.com/Its_AKPatel)
 - 🚀 Exploring the latest advancements in the tech industry 
 
 ### 💞️ Open Source Contributions
