@@ -3,7 +3,7 @@
 ## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
 #### 🤖 Software Engineer | 💻 Programmer | 🎬 Anime Lover 
 
-Welcome to my Github profile! I'm a software engineer with a passion for programming and a love for anime. I'm always working on cool projects and learning new technologies, currently focusing on learning C++. 
+Welcome to my Github profile! I'm a software engineer from India with a passion for programming and a love for anime. I'm always working on cool projects and learning new technologies, currently focusing on learning javascript. 
 
 ### 🔭 What's new?
 
@@ -14,7 +14,7 @@ Welcome to my Github profile! I'm a software engineer with a passion for program
 
 ### 💞️ Open Source Contributions
 
-I'm passionate about contributing to open source projects, collaborating with other developers, and helping to make the world a better place through technology. 
+It's just amazing that your code can help millions of people. I'm passionate about contributing to open source projects, collaborating with other developers, and helping to make the world a better place through technology. 
 
 ### 📫 How to reach me?
 
