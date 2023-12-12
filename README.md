@@ -3,14 +3,14 @@
 ## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
 #### 🤖 Software Engineer | 💻 Programmer | 🎬 Anime Lover 
 
-Welcome to my Github profile! I'm a software engineer from India with a passion for programming and a love for anime. I'm always working on cool projects and learning new technologies, currently focusing on learning javascript. 
+Welcome to my Github profile! I'm a software engineer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning javascript. 
 
 ### 🔭 What's new?
 
 <!-- - 💻 Working on building robust and scalable software systems -->
 <!-- -🌱  Learning new programming languages and frameworks -->
 - 🌱 Learning Web Devlopment and updating my learnings on my [twitter handle](https://twitter.com/Its_AKPatel)
-- 🚀 Exploring the latest advancements in the tech industry 
+<!-- - 🚀 Exploring the latest advancements in the tech industry  -->
 
 ### 💞️ Open Source Contributions
 
