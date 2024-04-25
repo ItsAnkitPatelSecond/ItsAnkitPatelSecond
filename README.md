@@ -1,26 +1,30 @@
-<img alt="Hi Friends" src="https://user-images.githubusercontent.com/83267083/209559829-6d870627-a58f-4dbc-9f17-5cb63db4a4a4.gif" width="230" height="170">
+Main account => [@itsankitpatel](https://github.com/itsAnkitPatel)
 
-## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
+Linkedin: [Link](http://www.linkedin.com/in/itsakpatel)
+
+Email : developerakpatel@gmail.com
+
+<!-- ## <img src="/../AssestsBranch/Hi.gif" height="25"> Hi there friend, I’m Ankit! 
 #### 🤖 Software Engineer | 💻 Programmer | 🎬 Anime Lover 
 
 Welcome to my Github profile! I'm a software engineer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning javascript. 
 
-### 🔭 What's new?
+### 🔭 What's new? -->
 
 <!-- - 💻 Working on building robust and scalable software systems -->
 <!-- -🌱  Learning new programming languages and frameworks -->
-- 🌱 Learning Web Devlopment and updating my learnings on my [twitter handle](https://twitter.com/Its_AKPatel)
+<!-- - 🌱 Learning Web Devlopment and updating my learnings on my [twitter handle](https://twitter.com/Its_AKPatel) -->
 <!-- - 🚀 Exploring the latest advancements in the tech industry  -->
 
-### 💞️ Open Source Contributions
+<!-- ### 💞️ Open Source Contributions
 
-It's just amazing that your code can help millions of people. I'm passionate about contributing to open source projects, collaborating with other developers, and helping to make the world a better place through technology. 
+It's just amazing that your code can help millions of people. I'm passionate about contributing to open source projects, collaborating with other developers, and helping to make the world a better place through technology.  -->
 
-### 📫 How to reach me?
+<!-- ### 📫 How to reach me?
 
-You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at developerakpatel@gmail.com .
+You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or shoot me an email at developerakpatel@gmail.com . -->
 
-### ⚡ Fun fact: 
+<!-- ### ⚡ Fun fact: 
 <img src="/../AssestsBranch/anime.gif" height="50"> I absolutely love anime! 
 
 ### 💭 My Procrastination Killer
@@ -31,7 +35,7 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsankitpatel&theme=buefy&background=FFFFFF)](https://github.com/ItsAnkitPatel)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsankitpatel&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel)  -->
 
 <!--
 ### 💻 Technologies & Tools
@@ -46,14 +50,14 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/itsakpatel) or 
 </p>
 -->
 
-### 🕒 My Coding Activity 
+<!-- ### 🕒 My Coding Activity 
 
 <a href="https://leetcode.com/ItsAkPatel/" target="_blank"><img src="https://leetcard.jacoblin.cool/ItsAkPatel?hide=ranking&theme=unicorn&extension=heatmap" alt="Ankit's leetcode-stats" width="450" ></a>
 
-[![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035)
+[![Coding Activity](https://wakatime.com/badge/user/6b7cac37-991e-4ffb-b45b-e24bc4871035.svg)](https://wakatime.com/@6b7cac37-991e-4ffb-b45b-e24bc4871035) -->
 
-### 👀 Visitors
+<!-- ### 👀 Visitors -->
 <!-- Thanks for stopping by! Don't forget to give me a follow and say hi. -->
-Thanks for visiting my profile! Let's connect and build something amazing together! 🙌
-
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)](https://github.com/ItsAnkitPatel)
+<!-- Thanks for visiting my profile! Let's connect and build something amazing together! 🙌 -->
+<!-- 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=itsankitpatel)](https://github.com/ItsAnkitPatel) -->
